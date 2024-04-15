@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iLikeDarkMode
 - 👀 I’m interested in computers, new technologies, coding, motorcycles, good food, digital art
-- 🌱 I’m currently learning the bases of coding with JS with hope of joining a WebDev course
+- 🌱 I’m currently learning the bases of coding with JS 
 - ⚡ Fun fact: firefox logo isnt a fox, its a red panda
 
 <!---
